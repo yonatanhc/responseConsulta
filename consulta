@@ -1,0 +1,26 @@
+[
+    {
+        "cod_cliente":100,
+        "nom_cliente": "cliente 1",
+        "items":[
+            {
+                "id_item": 10,
+                "cod_barra": 123456789123456789123456,
+                "importe":2056,
+                "monto_abierto":1,
+                "texto_mostrar": "texto_1",
+                "texto_ticket_consulta": "",
+                "fecha_vencimiento": 20221126
+            },
+            {
+                "id_item": 11,
+                "cod_barra": 999999999999999999999999,
+                "importe":1596,
+                "monto_abierto":0,
+                "texto_mostrar": "texto_2",
+                "texto_ticket_consulta": "",
+                "fecha_vencimiento": 20221128
+            }
+        ]
+    }
+]
